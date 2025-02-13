@@ -15,4 +15,4 @@ EXPOSE 8080
 
 #Start flask app
 ENTRYPOINT ["python"]
-CMD ["app.py"]
+CMD ["main.py"]
